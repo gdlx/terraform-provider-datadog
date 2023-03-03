@@ -1,0 +1,12 @@
+{
+  "go.testFlags": [
+    "-v"
+  ],
+  "go.testEnvVars": {
+    "RECORD": "none",
+    "TF_ACC": "1",
+    "DD_TEST_CLIENT_APP_KEY": "5c1fdc22d8e8adddaa611945e6114722dc2828f6",
+    "DD_TEST_CLIENT_API_KEY": "439106e75a5482f5ecfd25d09c7b3f16",
+    "DD_TEST_ORG": "65bed16e-b849-11ed-a0e0-da7ad0900002"
+  }
+}
